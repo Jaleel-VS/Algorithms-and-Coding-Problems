@@ -1,5 +1,6 @@
 ## Algorithms and Coding Problems 💻
 
-# Code Wars
+## Code Wars
+### Easy
    - [Counting Duplicates](01_count_duplicates)
    - [Square(n) sum](02_square_n_sum)
