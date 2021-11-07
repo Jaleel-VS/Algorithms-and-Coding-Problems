@@ -7,11 +7,11 @@
    - [Square(n) sum](02_square_n_sum)
    - [Repeat string](03_string_repeat)
    - [Categorise new member](04_categorise_new_member)
+   - [Highest Lowest](05_highest_lowest)
+   - [Reverse words](06_reverse_words)
+   - [Are they the same?](07_are_they_the_same)
 
 ### Intermediate
-   - [Highest Lowest](05_highest_lowest)
-
-
 ### Advanced
 
 #### Notes: 
