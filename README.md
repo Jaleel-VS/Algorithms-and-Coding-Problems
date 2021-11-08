@@ -10,6 +10,10 @@
    - [Highest Lowest](05_highest_lowest)
    - [Reverse words](06_reverse_words)
    - [Are they the same?](07_are_they_the_same)
+   - [Consecutive strings](08_consecutive_strings)
+   - [Sort the odd](09_sort_the_odd)
+   - [Find the unique number](10_find_the_unique_number)
+   - [String incrementer](11_string_incrementer)
 
 ### Intermediate
 ### Advanced
