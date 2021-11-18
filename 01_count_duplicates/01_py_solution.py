@@ -6,3 +6,6 @@ def duplicate_count(text):
 
     # Loop through dictionary, add 1 to a list if value is greater than 1
     return sum([ 1 for k,v in letters.items() if v > 1])
+
+
+duplicate_count('aaab')
